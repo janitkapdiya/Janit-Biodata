@@ -467,6 +467,24 @@ img{
   bottom: 5rem;
 }
 
+/*========== PERSONAL DETAILS ==========*/
+.personal{
+  grid-template-columns: repeat(2,1fr);
+}
+
+.personal__content{
+  gap: .25rem;
+}
+
+.personal__subtitle{
+  color: var(--text-color-light);
+}
+
+.personal__subtitle,
+.personal__contact{
+  font-size: var(--smaller-font-size);
+}
+
 /*========== MEDIA QUERIES ==========*/
 /* For small devices, menu two columns */
 @media screen and (min-width: 968px) {
