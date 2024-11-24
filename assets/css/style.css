@@ -292,8 +292,12 @@ img{
 
 /*========== SOCIAL ==========*/
 .social__container{
-  grid-template-columns: max-content;
   gap: 1rem;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.social__content{
+  grid-template-columns: repeat(2, 1fr);
 }
 
 .social__link{
