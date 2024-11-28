@@ -57,7 +57,7 @@ body.dark-theme {
 }
 
 /*========== Button Dark/Light ==========*/
-.change-theme {
+/* .change-theme {
   position: absolute;
   right: 0;
   top: 2.2rem;
@@ -69,7 +69,7 @@ body.dark-theme {
 
 .change-theme:hover {
   color: var(--title-color);
-}
+} */
 
 
 /*========== Classes modified to reduce size and print on A4 sheet ==========*/
