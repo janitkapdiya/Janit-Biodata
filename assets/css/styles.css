@@ -57,7 +57,7 @@ html {
 } */
 
 /*========== Button Dark/Light ==========*/
-/* .change-theme {
+.change-theme {
   position: absolute;
   right: 0;
   top: 2.2rem;
@@ -69,7 +69,7 @@ html {
 
 .change-theme:hover {
   color: var(--title-color);
-} */
+}
 
 .language__changer{
   color: var(--title-color);
